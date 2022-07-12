@@ -1,27 +1,44 @@
-# InventoryApp
+# ANGULAR INVENTORY APP
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+A Simple Inventory App In Angular
 
-## Development server
+## Acknowledgements
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Ng Book](https://www.amazon.com/ng-book-Complete-Angular-Nathan-Murray/dp/1985170280)
 
-## Code scaffolding
+## Deployment
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To deploy this project run
 
-## Build
+```bash
+  npm install -g now
+  cd dist/inventory-app
+  now
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Demo
 
-## Running unit tests
+https://inventory-app-sigma-pied.vercel.app/
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Features
 
-## Running end-to-end tests
+- Basic Angular Application
+- Component Interaction
+- Clean Code
+- Design Patterns
+- Angular Directives
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Feedback
 
-## Further help
+If you have any feedback, please reach out to us at njugunajb96@gmail.com
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Screenshots
+
+# Tablet
+
+<img src='./screens/full.png' width="50%" height="auto" />
+
+# Phone
+
+<img src='./screens/iPad.png' width="50%" height="auto" />
+<img src='./screens/phone.png' width="50%" height="auto" />
